@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Suminda Bandara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=MERN+%2B+Mongoose+Developer;Java+%7C+OOP+%7C+Architecture+Enthusiast;Digital+Marketer+%7C+UI+Problem+Solver" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=MERN+%2B+Mongoose+Developer;Java+%7C+OOP+%7C+Architecture+Enthusiast;Digital+Marketer+%7C+UI+Problem+Solver" alt="Typing animation" />
 </p>
 
 <p align="center">
