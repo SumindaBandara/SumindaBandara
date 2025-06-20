@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Suminda Bandara</h1>
+<h1 align="center">👋 Hello! I'm Suminda Bandara </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=MERN+%2B+Mongoose+Developer;Java+%7C+OOP+%7C+Architecture+Enthusiast;Digital+Marketer+%7C+UI+Problem+Solver" alt="Typing animation" />
@@ -24,7 +24,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,gsap,nodejs,express,mongodb,mysql,java,firebase,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,java,firebase,git,postman,vscode" />
 </p>
 
 | Area        | Tools & Technologies                                                                 |
@@ -40,5 +40,3 @@
 
 ---
 
-✅ Want the next section (Projects, Contact, GitHub Stats, etc.) to match this vibe too?  
-I can generate the full styled README in one go for you.
