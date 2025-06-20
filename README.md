@@ -1,26 +1,44 @@
-# 👋 Hello! I'm Suminda Bandara
+<h1 align="center">👋 Hello! I'm Suminda Bandara</h1>
 
-🚀 A passionate **MURN Stack Developer** who crafts clean, scalable, and responsive web applications.  
-🎯 Bridging the gap between code, business, and user experience with creativity and precision.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=MERN+%2B+Mongoose+Developer;Java+%7C+OOP+%7C+Architecture+Enthusiast;Digital+Marketer+%7C+UI+Problem+Solver" alt="Typing animation" />
+</p>
+
+<p align="center">
+🚀 A passionate <strong>MURN Stack Developer</strong> crafting clean, scalable, responsive apps  
+🎯 Bridging <strong>code</strong>, <strong>business</strong>, and <strong>UX</strong> with creative thinking and practical architecture
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I specialize in **MERN + Mongoose** (MongoDB, Express, React, Node.js) based full-stack development.
-- 💡 Strong understanding of **Java** and **Object-Oriented Programming (OOP)** principles.
-- 🧠 Knowledgeable in **Software Architecture** – from layered patterns to scalable microservices.
-- 📊 Also passionate about **Digital Marketing** and love analyzing real-world **algorithms and business strategies**.
-- 🎤 Known for being a **great presenter** who communicates ideas clearly and confidently.
+- 🔧 Specialized in **MERN + Mongoose** full-stack development  
+- 💡 Strong in **Java** & **OOP (Object-Oriented Programming)** concepts  
+- 🧠 Experienced with **Software Architecture** – layered, MVC, microservices  
+- 📊 Passionate about **Digital Marketing** & **real-world algorithm analysis**  
+- 🎤 Skilled at public speaking & technical presentations with clarity
 
 ---
 
-## 🔥 Tech Stack
+## 🛠 Tech Stack
 
-- 💻 **Frontend**: React, Tailwind CSS, GSAP, HTML5, CSS3, JavaScript  
-- 🛠 **Backend**: Node.js, Express.js, Mongoose  
-- 🗄 **Database**: MongoDB, MySQL (basic)  
-- 🔍 **Tools**: Git, GitHub, Postman, VSCode  
-- 🧪 **Others**: Java (OOP), Firebase (basic), REST APIs, Agile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,gsap,nodejs,express,mongodb,mysql,java,firebase,git,postman,vscode" />
+</p>
+
+| Area        | Tools & Technologies                                                                 |
+|-------------|----------------------------------------------------------------------------------------|
+| 💻 Frontend | React, Tailwind CSS, GSAP, JavaScript, HTML5, CSS3                                     |
+| 🛠 Backend  | Node.js, Express.js, Mongoose                                                          |
+| 🗄 Database | MongoDB, MySQL (basic)                                                                 |
+| 🧪 Others   | Java (OOP), Firebase (basic), REST APIs, Agile, Git, GitHub, Postman, VSCode           |
 
 ---
+
+> ⚡ *I don’t just code — I build experiences that make sense and solve real-world problems.*
+
+---
+
+✅ Want the next section (Projects, Contact, GitHub Stats, etc.) to match this vibe too?  
+I can generate the full styled README in one go for you.
